@@ -50,3 +50,4 @@ function binMukemmelSayi() {
     
 }
 binMukemmelSayi();
+//son
